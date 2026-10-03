@@ -1,4 +1,27 @@
 <p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=180&section=header&text=AKIRA%20ARAVIND&fontSize=46&fontColor=2ea043&fontAlignY=38&desc=Software%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Geospatial&descSize=18&descAlignY=62&descColor=c9d1d9"
+    alt="Akira Aravind profile banner"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/AkiraAravind">
+    <img
+      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=%3E%3E%20akira.aravind%20%3A%3A%20hello_world"
+      alt="&gt;&gt; akira.aravind :: hello_world"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Building%20Intelligent%20Systems%20Where%20Software%20Meets%20Real-World%20Data;Python%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Geospatial"
+    alt="Typing headlines"
+  />
+</p>
+<p align="center">
   <a href="https://github.com/AkiraAravind">
     <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=%3E%3E%20akira.aravind%20%3A%3A%20hello_world" alt="&gt;&gt; akira.aravind :: hello_world" />
   </a>
