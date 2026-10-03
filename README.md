@@ -1,8 +1,8 @@
 <p align="center">
   <img
-    src="[[url=https://wall.alphacoders.com/big.php?i=82103][img]https://images.alphacoders.com/821/thumb-350-82103.webp[/img][/url]](https://img.freepik.com/free-photo/earth-galaxy-elements-this-image-furnished-by-nasa_335224-750.jpg?w=2000)"
+    src="https://wsrv.nl/?url=https://raw.githubusercontent.com/AkiraAravind/AkiraAravind/main/bg-image.png&blur=2"
     width="100%"
-    alt="Earth, satellites and stars"
+    alt="Earth, stars and satellites"
   />
 </p>
 
