@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/AkiraAravind">
     <img
-      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1082&text=%3E%3E%20akira.aravind%20%3A%3A%20hello_world"
+      src="https://capsule-render.vercel.app/api?type=transparent&fontColor=B8A1FF&fontSize=54&height=90&width=1082&text=%3E%3E%20akira.aravind%20%3A%3A%20hello_world"
       alt="&gt;&gt; akira.aravind :: hello_world"
     />
   </a>
