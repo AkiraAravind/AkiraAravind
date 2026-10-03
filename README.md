@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://images-assets.nasa.gov/image/GSFC_20171208_Archive_e001279/GSFC_20171208_Archive_e001279~orig.jpg"
+    src="[url=https://wall.alphacoders.com/big.php?i=82103][img]https://images.alphacoders.com/821/thumb-350-82103.webp[/img][/url]"
     width="100%"
     alt="Earth, satellites and stars"
   />
