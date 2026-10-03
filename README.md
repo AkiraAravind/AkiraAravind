@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://wsrv.nl/?url=https://raw.githubusercontent.com/AkiraAravind/AkiraAravind/main/bg-image.png&blur=2"
+    src="https://wsrv.nl/?url=https://raw.githubusercontent.com/AkiraAravind/AkiraAravind/main/bg-image.png"
     width="100%"
     alt="Earth, stars and satellites"
   />
