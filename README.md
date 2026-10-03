@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Building%20Intelligent%20Systems%20Where%20Software%20Meets%20Real-World%20Data;Python%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Geospatial"
+    src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=D8CCFF&center=true&vCenter=true&width=900&height=44&lines=Building%20Intelligent%20Systems%20Where%20Software%20Meets%20Real-World%20Data;Python%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Computer%20Vision%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20Geospatial"
     alt="Typing headlines"
   />
 </p>
@@ -103,12 +103,12 @@ Building practical software at the intersection of Software Engineering, AI/ML, 
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AkiraAravind&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=AkiraAravind&show_icons=true&theme=tokyonight&title_color=B8A1FF&icon_color=B8A1FF&hide_border=true&bg_color=00000000&count_private=true"
     alt="GitHub statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AkiraAravind&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8"
+    src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=AkiraAravind&layout=compact&theme=tokyonight&title_color=B8A1FF&icon_color=B8A1FF&hide_border=true&bg_color=00000000&langs_count=8"
     alt="Top languages"
   />
 </p>
@@ -118,7 +118,7 @@ Building practical software at the intersection of Software Engineering, AI/ML, 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AkiraAravind&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"
+    src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=AkiraAravind&bg_color=00000000&color=B8A1FF&line=B8A1FF&point=D8CCFF&area=true&hide_border=true"
     alt="GitHub contribution graph"
   />
 </p>
